@@ -1,0 +1,11 @@
+# vscode
+.vscode/
+
+# Compilations
+*.bin
+oswrite
+*.img
+*.o
+
+# Mac
+.DS_Store
